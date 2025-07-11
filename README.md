@@ -19,8 +19,9 @@
 
 ### ⛓️ Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,15 +38,15 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HuyHT130204&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyHT130204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Current Focus
 
-- 🔭 Building innovative **Web3 applications**
-- 🌱 Learning advanced **Smart Contract development**
-- 🤝 Looking to collaborate on **Blockchain projects**
-- 💡 Exploring **DeFi** and **NFT** technologies
+- 🔭 Building innovative **Web3 applications** on **Solana**
+- 📱 Developing **Mobile applications** and **Web fullstack** projects
+- 🌱 Learning advanced **Smart Contract development** with **Rust**
+- 💡 Exploring **DeFi** and **NFT** technologies on **Solana**
 - 📚 Sharing knowledge about **Crypto** and **Web3**
 
 ## 🏆 Achievements
@@ -69,12 +70,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/huyht1302)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuyHT130204)
 
-</div>
-
-## 💻 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
