@@ -1,21 +1,10 @@
-# Hi 👋 💻 👋 , I'm HuyHT130204
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+am+a+Software+Engineer;Passionate+about+Web3+%26+Blockchain;Vietnamese+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  
+# Hi 👋 💻 👋 , I'm Huy Thanh Ho
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+am+a+Software+Engineer;Passionate+about+Web3+%26+Blockchain;Vietnamese+Developer;Always+learning+new+things!" alt="Typing SVG" />
+
 </div>
-
-## 🚀 About Me
-
-```typescript
-const HuyHT130204 = {
-    name: "HuyHT130204",
-    location: "Vietnam 🇻🇳",
-    role: "Software Engineer",
-    passions: ["Crypto", "Web3", "Blockchain Development"],
-    currentFocus: "Building decentralized applications",
-    funFact: "I love coding on Blockchain ⚡"
-};
-```
 
 ## 💼 Skills & Technologies
 
@@ -48,7 +37,7 @@ const HuyHT130204 = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyHT130204&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HuyHT130204&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Current Focus
@@ -70,13 +59,6 @@ const HuyHT130204 = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHT130204&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
-
-## 🌟 Fun Facts
-
-- ⚡ **Fun fact**: I love coding on Blockchain!
-- 🎮 When I'm not coding, I'm exploring the latest in **crypto** and **Web3**
-- 🌱 Always eager to learn and adapt to new technologies
-- 🚀 Passionate about **decentralized finance** and **smart contracts**
 
 ## 📫 Connect with Me
 
